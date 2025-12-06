@@ -1,0 +1,5 @@
+{
+  "name": "MuseFlow AI",
+  "description": "A cutting-edge AI composer that turns text descriptions into playable piano melodies using Google Gemini and Web Audio API.",
+  "requestFramePermissions": []
+}
